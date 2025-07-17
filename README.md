@@ -33,6 +33,12 @@ This route loads the Privacy Policy page and invokes internal logic that marks t
 
 ## Usage Instructions
 
+POC - 
+
+<img width="1915" height="931" alt="Screenshot 2025-07-17 123451" src="https://github.com/user-attachments/assets/0d117455-2028-444d-83ba-890b34fb396f" />
+
+
+
 1. Clone this repo:
    ```bash
    git clone https://github.com/YourUsername/OWASP-Juice-Shop-Privacy-Policy-Challenge.git
