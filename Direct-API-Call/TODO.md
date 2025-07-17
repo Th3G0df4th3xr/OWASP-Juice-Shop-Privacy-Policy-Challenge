@@ -1,4 +1,3 @@
-Here is the technical `TODO.md` for the **OWASP Juice Shop Privacy Policy Challenge** using the **Direct-API-Call** method:
 
 ---
 
