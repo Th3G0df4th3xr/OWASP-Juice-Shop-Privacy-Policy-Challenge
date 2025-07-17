@@ -1,4 +1,3 @@
-Here's a highly technical `README.md` content for the **OWASP Juice Shop Privacy Policy Challenge** using the **Direct API Call** method:
 
 ---
 
